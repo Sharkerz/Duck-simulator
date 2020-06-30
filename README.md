@@ -1,3 +1,3 @@
 # Duck simulator
 
-![](../../../../Images/Capture.PNG)
+![](Capture.PNG)
